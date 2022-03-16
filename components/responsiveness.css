@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1000px) {
+  .container {
+    grid-template-columns: 100%;
+    grid-template-areas: "a" "b";
+  }
+  .login{
+      padding-bottom: 150px;
+  }
+}

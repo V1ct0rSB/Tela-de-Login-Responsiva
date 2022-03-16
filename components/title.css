@@ -1,0 +1,15 @@
+.title {
+  color: #00df72;
+  font-family: "Assistant", sans-serif;
+  font-weight: 700;
+}
+
+.title.-second{
+    font-size: 2em;
+    padding: 85px 95px;
+}
+
+.title.-first{
+    text-align: center;
+    font-size: 1.7em;
+}

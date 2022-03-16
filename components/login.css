@@ -1,0 +1,8 @@
+.login {
+  background: #2d163d;
+
+  grid-area: b;
+  display: flex;
+  justify-content: center;
+  padding-top: 175px;
+}
